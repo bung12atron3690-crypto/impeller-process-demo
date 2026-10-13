@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  background: #f4f7fb;
+  color: #172338;
+  font-family: Arial, "Microsoft YaHei", sans-serif;
+}
+button { cursor: pointer; }
+button:disabled { cursor: wait; }

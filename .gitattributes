@@ -1,0 +1,4 @@
+# Preserve CAD exporter formatting; its trailing spaces are not source-code errors.
+*.step -whitespace
+*.stp -whitespace
+*.stl binary
